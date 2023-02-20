@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDBuQjg6FSg9RXuWzmiXl/cB2am7QVA3yM76T/iFhHtiKJdRLnklPmp09MezBEO56q7GmHSAzDreZzn51UNq3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\BACK\\DirectoryFileStreamReader\\DirectoryFileStreamReader\\DirectoryFileStreamReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3-beta1\\newtonsoft.json.13.0.3-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}

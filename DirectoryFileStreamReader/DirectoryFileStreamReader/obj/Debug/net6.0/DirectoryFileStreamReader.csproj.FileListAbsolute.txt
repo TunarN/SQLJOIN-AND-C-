@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\DirectoryFileStreamReader.exe
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\DirectoryFileStreamReader.deps.json
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\DirectoryFileStreamReader.runtimeconfig.json
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\DirectoryFileStreamReader.dll
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\DirectoryFileStreamReader.pdb
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.dll
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\refint\DirectoryFileStreamReader.dll
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.pdb
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\ref\DirectoryFileStreamReader.dll
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\BACK\DirectoryFileStreamReader\DirectoryFileStreamReader\obj\Debug\net6.0\DirectoryFileStreamReader.csproj.CopyComplete
